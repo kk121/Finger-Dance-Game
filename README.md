@@ -1,8 +1,8 @@
 # Finger-Dance-Game
 # How to Run
-1) Clone or download this repository
-2) Import project in Android Studio
-3) Run the app
+- Clone or download this repository
+- Import project in Android Studio
+- Run the app
 
 # Design/Architecture of the game
 - TileView is a Custom View:
