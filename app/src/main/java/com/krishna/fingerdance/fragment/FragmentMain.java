@@ -212,6 +212,8 @@ public class FragmentMain extends Fragment implements TileView.OnTouchDownListen
             TextView player2Score = (TextView) dialog.findViewById(R.id.player2_score);
             player1Score.setText("Player1 : " + player1.score);
             player2Score.setText("Player2 : " + player2.score);
+            player1Score.setVisibility(View.VISIBLE);
+            player2Score.setVisibility(View.VISIBLE);
         }
         winner.setText(message);
         dialog.setCanceledOnTouchOutside(false);
