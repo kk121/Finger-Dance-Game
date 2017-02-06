@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Finger Dance</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="txt_player1_lost">"Player 1 LOST "</string>
+    <string name="txt_player2_lost">"Player 2 LOST "</string>
+    <string name="txt_game_over">GAME OVER</string>
+    <string name="txt_player_turn">\'turn</string>
+</resources>
